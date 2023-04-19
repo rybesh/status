@@ -4,7 +4,7 @@
     "url": "https://aeshin.org",
     "icon": "https://icons.duckduckgo.com/ip3/aeshin.org.ico",
     "slug": "aeshin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 221,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2023-04-19": 0,
       "2023-03-28": 27
     }
   }
