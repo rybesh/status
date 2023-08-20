@@ -11,14 +11,50 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 388,
-    "timeDay": 257,
-    "timeWeek": 2130,
-    "timeMonth": 757,
+    "timeDay": 292,
+    "timeWeek": 1950,
+    "timeMonth": 745,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2023-04-25": 188,
       "2023-04-19": 34,
       "2023-03-28": 27
     }
+  },
+  {
+    "name": "PeriodO data",
+    "url": "https://data.perio.do",
+    "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
+    "slug": "period-o-data",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 402,
+    "timeDay": 402,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "PeriodO TTL",
+    "url": "https://n2t.net/ark:/99152/p0dataset.ttl",
+    "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
+    "slug": "period-o-ttl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2012,
+    "timeDay": 2012,
+    "timeWeek": 2012,
+    "timeMonth": 2012,
+    "timeYear": 2012,
+    "dailyMinutesDown": {}
   }
 ]
