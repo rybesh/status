@@ -24,10 +24,12 @@ sites:
     url: https://deals.fly.dev
   - name: Feedme
     url: https://feedme.fly.dev
-  - name: Fedwiki
-    url: https://fedwiki.fly.dev
   - name: NC Knowledge Graph
     url: https://nckg.fly.dev
+  - name: Fedwiki
+    url: https://fedwiki.fly.dev
+    expectedStatusCodes:
+      - 401
 
 status-website:
   baseUrl: /status
