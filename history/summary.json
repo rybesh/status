@@ -225,18 +225,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "up",
-    "uptime": "1.63%",
-    "uptimeDay": "1.63%",
-    "uptimeWeek": "1.63%",
-    "uptimeMonth": "1.63%",
-    "uptimeYear": "1.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 583,
     "timeWeek": 583,
     "timeMonth": 583,
     "timeYear": 583,
-    "dailyMinutesDown": {
-      "2023-08-20": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
