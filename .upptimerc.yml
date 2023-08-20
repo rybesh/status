@@ -6,8 +6,28 @@ sites:
     url: https://aeshin.org
   - name: PeriodO data
     url: https://data.perio.do
+  - name: PeriodO client
+    url: https://client.perio.do
   - name: PeriodO TTL
     url: https://n2t.net/ark:/99152/p0dataset.ttl
+  - name: PeriodO CSV
+    url: https://n2t.net/ark:/99152/p0dataset.csv
+  - name: PeriodO places graph
+    url: https://data.perio.do/graphs/places
+  - name: PeriodO legacy subdomain
+    url: https://test.perio.do
+  - name: Linked Events
+    url: https://linkedevents.org
+  - name: UNC-CH AAUP
+    url: https://unc-ch-aaup.org
+  - name: Deals
+    url: https://deals.fly.dev
+  - name: Feedme
+    url: https://feedme.fly.dev
+  - name: Fedwiki
+    url: https://fedwiki.fly.dev
+  - name: NC Knowledge Graph
+    url: https://nckg.fly.dev
 
 status-website:
   baseUrl: /status
