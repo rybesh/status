@@ -4,6 +4,10 @@ repo: status
 sites:
   - name: Aeshin
     url: https://aeshin.org
+  - name: PeriodO data
+    url: https://data.perio.do
+  - name: PeriodO TTL
+    url: https://n2t.net/ark:/99152/p0dataset.ttl
 
 status-website:
   baseUrl: /status
