@@ -28,8 +28,8 @@
     "slug": "period-o-data",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
@@ -37,7 +37,9 @@
     "timeWeek": 344,
     "timeMonth": 333,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 1
+    }
   },
   {
     "name": "PeriodO client",
@@ -46,8 +48,8 @@
     "slug": "period-o-client",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
@@ -55,7 +57,9 @@
     "timeWeek": 224,
     "timeMonth": 236,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 1
+    }
   },
   {
     "name": "PeriodO TTL",
@@ -63,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-ttl",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.63%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.63%",
     "time": 2304,
     "timeDay": 8868,
     "timeWeek": 3673,
     "timeMonth": 2342,
     "timeYear": 2304,
     "dailyMinutesDown": {
-      "2023-09-21": 0,
+      "2023-09-21": 92,
       "2023-09-05": 49,
       "2023-08-26": 30
     }
@@ -85,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-csv",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.62%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.62%",
     "time": 391,
     "timeDay": 455,
     "timeWeek": 386,
     "timeMonth": 394,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-09-21": 0,
+      "2023-09-21": 92,
       "2023-09-05": 56,
       "2023-08-26": 30
     }
