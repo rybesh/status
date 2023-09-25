@@ -183,18 +183,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/deals.fly.dev.ico",
     "slug": "deals",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 215,
     "timeDay": 218,
     "timeWeek": 158,
     "timeMonth": 198,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-09-25": 0
+      "2023-09-25": 4
     }
   },
   {
