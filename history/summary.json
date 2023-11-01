@@ -185,11 +185,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deals.fly.dev.ico",
     "slug": "deals",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 210,
     "timeDay": 165,
     "timeWeek": 228,
@@ -204,9 +204,9 @@
     "url": "https://feedme.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/feedme.fly.dev.ico",
     "slug": "feedme",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,7 +215,9 @@
     "timeWeek": 399,
     "timeMonth": 336,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "NC Knowledge Graph",
