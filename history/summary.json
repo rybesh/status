@@ -130,10 +130,10 @@
     "url": "https://test.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/test.perio.do.ico",
     "slug": "period-o-legacy-subdomain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 398,
@@ -141,7 +141,9 @@
     "timeWeek": 439,
     "timeMonth": 473,
     "timeYear": 398,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 2
+    }
   },
   {
     "name": "Linked Events",
@@ -243,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "65.95%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.43%",
+    "uptimeDay": "54.57%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.43%",
     "time": 651,
     "timeDay": 0,
     "timeWeek": 1029,
     "timeMonth": 882,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2023-11-08": 71,
+      "2023-11-08": 235,
       "2023-11-07": 420
     }
   }
