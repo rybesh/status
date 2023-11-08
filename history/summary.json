@@ -130,19 +130,19 @@
     "url": "https://test.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/test.perio.do.ico",
     "slug": "period-o-legacy-subdomain",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 189,
-    "timeWeek": 439,
-    "timeMonth": 473,
-    "timeYear": 398,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "63.68%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.55%",
+    "time": 584,
+    "timeDay": 8204,
+    "timeWeek": 2412,
+    "timeMonth": 966,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2023-11-08": 2
+      "2023-11-08": 523
     }
   },
   {
@@ -245,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "54.57%",
-    "uptimeWeek": "93.51%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "99.43%",
+    "uptime": "98.98%",
+    "uptimeDay": "18.25%",
+    "uptimeWeek": "88.32%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "98.98%",
     "time": 651,
     "timeDay": 0,
     "timeWeek": 1029,
     "timeMonth": 882,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2023-11-08": 235,
+      "2023-11-08": 758,
       "2023-11-07": 420
     }
   }
