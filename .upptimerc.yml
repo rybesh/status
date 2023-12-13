@@ -24,8 +24,8 @@ sites:
     url: https://deals.fly.dev
   - name: Feedme
     url: https://feedme.fly.dev
-  - name: NC Knowledge Graph
-    url: https://nckg.fly.dev
+  - name: NC Gazetteer
+    url: https://ncgazetteer.org
   - name: Fedwiki
     url: https://fedwiki.fly.dev
     expectedStatusCodes:
