@@ -21,7 +21,7 @@ sites:
 
 status-website:
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/rybesh/status/master/assets/upptime-icon.svg
   name: Status
   navbar:
     - title: Status
