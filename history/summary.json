@@ -102,9 +102,9 @@
     "url": "https://ncgazetteer.org",
     "icon": "https://icons.duckduckgo.com/ip3/ncgazetteer.org.ico",
     "slug": "nc-gazetteer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 342,
     "timeMonth": 342,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   },
   {
     "name": "Fedwiki",
@@ -121,15 +123,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "up",
-    "uptime": "74.43%",
+    "uptime": "74.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.13%",
+    "uptimeWeek": "78.11%",
     "uptimeMonth": "27.22%",
-    "uptimeYear": "74.43%",
+    "uptimeYear": "74.53%",
     "time": 1202,
     "timeDay": 868,
     "timeWeek": 1100,
-    "timeMonth": 3549,
+    "timeMonth": 3685,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2023-12-11": 103,
