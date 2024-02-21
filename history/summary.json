@@ -46,19 +46,19 @@
     "url": "https://unc-ch-aaup.org",
     "icon": "https://icons.duckduckgo.com/ip3/unc-ch-aaup.org.ico",
     "slug": "unc-ch-aaup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 337,
-    "timeWeek": 268,
-    "timeMonth": 235,
+    "timeDay": 272,
+    "timeWeek": 261,
+    "timeMonth": 234,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 15
     }
   },
   {
