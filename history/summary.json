@@ -4,19 +4,19 @@
     "url": "https://aeshin.org",
     "icon": "https://icons.duckduckgo.com/ip3/aeshin.org.ico",
     "slug": "aeshin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 300,
-    "timeDay": 274,
-    "timeWeek": 265,
-    "timeMonth": 257,
+    "timeDay": 277,
+    "timeWeek": 267,
+    "timeMonth": 258,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-04-24": 1
+      "2024-04-24": 8
     }
   },
   {
