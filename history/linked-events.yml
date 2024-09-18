@@ -1,7 +1,7 @@
 url: https://linkedevents.org
-status: up
-code: 200
-responseTime: 285
-lastUpdated: 2024-09-18T10:43:50.509Z
+status: down
+code: 502
+responseTime: 15441
+lastUpdated: 2024-09-18T10:53:04.305Z
 startTime: 2023-08-20T13:36:06.485Z
 generator: Upptime <https://github.com/upptime/upptime>
