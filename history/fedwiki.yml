@@ -1,7 +1,7 @@
 url: https://fedwiki.fly.dev
-status: up
-code: 401
-responseTime: 1438
-lastUpdated: 2025-03-02T11:14:59.413Z
+status: down
+code: 502
+responseTime: 22270
+lastUpdated: 2025-03-02T13:22:59.065Z
 startTime: 2023-08-20T13:36:09.485Z
 generator: Upptime <https://github.com/upptime/upptime>
