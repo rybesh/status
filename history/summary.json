@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 308,
-    "timeDay": 365,
-    "timeWeek": 268,
-    "timeMonth": 288,
+    "timeDay": 266,
+    "timeWeek": 257,
+    "timeMonth": 283,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2025-02-18": 15,
       "2025-02-16": 243,
       "2025-01-11": 26,
-      "2024-09-01": 53,
-      "2024-07-16": 18
+      "2024-09-01": 53
     }
   },
   {
@@ -34,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.20%",
-    "time": 1619,
-    "timeDay": 1560,
-    "timeWeek": 1128,
-    "timeMonth": 864,
+    "time": 1621,
+    "timeDay": 1508,
+    "timeWeek": 1097,
+    "timeMonth": 898,
     "timeYear": 1737,
     "dailyMinutesDown": {
       "2025-03-23": 929,
@@ -56,8 +55,7 @@
       "2024-09-19": 25,
       "2024-09-18": 125,
       "2024-09-01": 53,
-      "2024-07-27": 113,
-      "2024-07-16": 16
+      "2024-07-27": 113
     }
   },
   {
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 365,
-    "timeWeek": 256,
-    "timeMonth": 285,
+    "timeDay": 233,
+    "timeWeek": 245,
+    "timeMonth": 283,
     "timeYear": 267,
     "dailyMinutesDown": {}
   },
@@ -84,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/deals.fly.dev.ico",
     "slug": "deals",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 163,
-    "timeDay": 180,
-    "timeWeek": 127,
-    "timeMonth": 149,
+    "timeDay": 203,
+    "timeWeek": 128,
+    "timeMonth": 148,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-03-28": 1211,
@@ -115,15 +113,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 206,
-    "timeDay": 193,
-    "timeWeek": 194,
-    "timeMonth": 146,
+    "timeDay": 208,
+    "timeWeek": 199,
+    "timeMonth": 148,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-02-16": 238,
       "2025-01-11": 24,
-      "2024-09-01": 52,
-      "2024-07-16": 39
+      "2024-09-01": 52
     }
   },
   {
@@ -132,15 +129,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncgazetteer.org.ico",
     "slug": "nc-gazetteer",
     "status": "up",
-    "uptime": "94.59%",
+    "uptime": "94.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.15%",
-    "uptimeMonth": "9.47%",
+    "uptimeWeek": "49.40%",
+    "uptimeMonth": "12.75%",
     "uptimeYear": "91.53%",
     "time": 440,
-    "timeDay": 311,
-    "timeWeek": 243,
-    "timeMonth": 276,
+    "timeDay": 249,
+    "timeWeek": 235,
+    "timeMonth": 275,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2025-07-12": 904,
@@ -178,8 +175,7 @@
       "2025-02-16": 235,
       "2025-01-11": 24,
       "2024-10-22": 18,
-      "2024-09-01": 50,
-      "2024-07-16": 31
+      "2024-09-01": 50
     }
   },
   {
@@ -188,18 +184,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "down",
-    "uptime": "77.88%",
+    "uptime": "77.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.28%",
-    "time": 3525,
+    "uptimeYear": "66.01%",
+    "time": 3529,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4580,
+    "timeYear": 4587,
     "dailyMinutesDown": {
-      "2025-07-15": 127,
+      "2025-07-16": 124,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
