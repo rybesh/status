@@ -10,11 +10,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
-    "time": 343,
-    "timeDay": 90,
-    "timeWeek": 291,
-    "timeMonth": 433,
-    "timeYear": 357,
+    "time": 342,
+    "timeDay": 527,
+    "timeWeek": 313,
+    "timeMonth": 445,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2026-01-05": 31,
       "2025-12-24": 50,
@@ -22,8 +22,7 @@
       "2025-11-23": 54,
       "2025-07-16": 21,
       "2025-02-18": 15,
-      "2025-02-16": 243,
-      "2025-01-11": 26
+      "2025-02-16": 243
     }
   },
   {
@@ -32,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkedevents.org.ico",
     "slug": "linked-events",
     "status": "down",
-    "uptime": "90.79%",
+    "uptime": "90.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.20%",
-    "time": 1414,
+    "uptimeYear": "77.92%",
+    "time": 1417,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1506,
+    "timeYear": 1510,
     "dailyMinutesDown": {
-      "2026-01-10": 121,
+      "2026-01-11": 140,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -128,8 +128,7 @@
       "2025-02-18": 22,
       "2025-02-16": 241,
       "2025-01-13": 233,
-      "2025-01-12": 204,
-      "2025-01-11": 25
+      "2025-01-12": 204
     }
   },
   {
@@ -143,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 336,
-    "timeWeek": 321,
-    "timeMonth": 410,
-    "timeYear": 295,
+    "time": 287,
+    "timeDay": 536,
+    "timeWeek": 354,
+    "timeMonth": 421,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2025-12-24": 20
     }
@@ -164,10 +163,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.61%",
     "time": 194,
-    "timeDay": 80,
-    "timeWeek": 248,
-    "timeMonth": 269,
-    "timeYear": 203,
+    "timeDay": 491,
+    "timeWeek": 278,
+    "timeMonth": 280,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2026-01-05": 54,
       "2025-12-08": 28,
@@ -176,8 +175,7 @@
       "2025-03-28": 1211,
       "2025-03-27": 382,
       "2025-03-21": 18,
-      "2025-02-16": 240,
-      "2025-01-11": 25
+      "2025-02-16": 240
     }
   },
   {
@@ -192,17 +190,16 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
     "time": 213,
-    "timeDay": 165,
-    "timeWeek": 170,
-    "timeMonth": 449,
+    "timeDay": 216,
+    "timeWeek": 179,
+    "timeMonth": 447,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-01-05": 53,
       "2025-12-08": 28,
       "2025-12-07": 21,
       "2025-11-23": 53,
-      "2025-02-16": 238,
-      "2025-01-11": 24
+      "2025-02-16": 238
     }
   },
   {
@@ -211,16 +208,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncgazetteer.org.ico",
     "slug": "nc-gazetteer",
     "status": "up",
-    "uptime": "95.85%",
+    "uptime": "95.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "91.52%",
-    "time": 440,
-    "timeDay": 296,
-    "timeWeek": 279,
-    "timeMonth": 286,
-    "timeYear": 439,
+    "time": 441,
+    "timeDay": 463,
+    "timeWeek": 293,
+    "timeMonth": 292,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2026-01-05": 22,
       "2025-12-24": 73,
@@ -258,8 +255,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 35,
-      "2025-02-16": 235,
-      "2025-01-11": 24
+      "2025-02-16": 235
     }
   },
   {
@@ -268,18 +264,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "down",
-    "uptime": "61.92%",
+    "uptime": "61.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.30%",
-    "time": 5791,
+    "uptimeYear": "17.02%",
+    "time": 5808,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 8727,
+    "timeYear": 8784,
     "dailyMinutesDown": {
-      "2026-01-10": 121,
+      "2026-01-11": 140,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -585,8 +582,7 @@
       "2025-03-02": 33,
       "2025-02-16": 234,
       "2025-02-13": 16,
-      "2025-02-11": 20,
-      "2025-01-11": 24
+      "2025-02-11": 20
     }
   }
 ]
