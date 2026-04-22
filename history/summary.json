@@ -210,7 +210,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncgazetteer.org.ico",
     "slug": "nc-gazetteer",
     "status": "up",
-    "uptime": "96.34%",
+    "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -265,7 +265,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "down",
-    "uptime": "55.45%",
+    "uptime": "55.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -276,6 +276,7 @@
     "timeMonth": 0,
     "timeYear": 15305,
     "dailyMinutesDown": {
+      "2026-04-22": 197,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
@@ -639,8 +640,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   }
 ]
