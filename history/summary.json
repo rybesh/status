@@ -163,10 +163,10 @@
     "url": "https://deals.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/deals.fly.dev.ico",
     "slug": "deals",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 226,
@@ -178,7 +178,8 @@
       "2025-11-23": 53,
       "2025-12-07": 21,
       "2025-12-08": 28,
-      "2026-01-05": 54
+      "2026-01-05": 54,
+      "2026-06-17": 1
     }
   },
   {
@@ -215,7 +216,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.00%",
+    "uptimeYear": "93.08%",
     "time": 340,
     "timeDay": 162,
     "timeWeek": 220,
@@ -259,7 +260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "down",
-    "uptime": "52.43%",
+    "uptime": "52.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -270,7 +271,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 282,
+      "2026-06-17": 684,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
