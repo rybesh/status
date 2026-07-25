@@ -30,10 +30,10 @@
     "slug": "linked-events",
     "status": "down",
     "uptime": "90.78%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "74.96%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "74.93%",
     "time": 802,
     "timeDay": 414,
     "timeWeek": 319,
@@ -135,7 +135,7 @@
       "2026-03-30": 691,
       "2026-04-21": 19,
       "2026-05-17": 53,
-      "2026-07-25": 1
+      "2026-07-25": 126
     }
   },
   {
@@ -212,7 +212,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncgazetteer.org.ico",
     "slug": "nc-gazetteer",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -246,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 66,
+      "2026-07-25": 192,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
