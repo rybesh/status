@@ -28,17 +28,17 @@
     "url": "https://linkedevents.org",
     "icon": "https://icons.duckduckgo.com/ip3/linkedevents.org.ico",
     "slug": "linked-events",
-    "status": "down",
+    "status": "up",
     "uptime": "90.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "74.92%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "74.91%",
     "time": 721,
-    "timeDay": 302,
-    "timeWeek": 371,
-    "timeMonth": 303,
-    "timeYear": 549,
+    "timeDay": 315,
+    "timeWeek": 368,
+    "timeMonth": 304,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2026-01-27": 991,
       "2026-01-26": 1440,
@@ -136,7 +136,7 @@
       "2026-04-21": 19,
       "2026-05-17": 53,
       "2026-07-25": 196,
-      "2026-07-27": 1
+      "2026-07-27": 68
     }
   },
   {
@@ -247,7 +247,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-27": 1188,
+      "2026-07-27": 1255,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
