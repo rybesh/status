@@ -28,17 +28,17 @@
     "url": "https://linkedevents.org",
     "icon": "https://icons.duckduckgo.com/ip3/linkedevents.org.ico",
     "slug": "linked-events",
-    "status": "up",
+    "status": "down",
     "uptime": "90.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.06%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "74.92%",
-    "time": 724,
-    "timeDay": 255,
-    "timeWeek": 373,
-    "timeMonth": 301,
-    "timeYear": 550,
+    "time": 721,
+    "timeDay": 302,
+    "timeWeek": 371,
+    "timeMonth": 303,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2026-01-27": 991,
       "2026-01-26": 1440,
@@ -135,7 +135,8 @@
       "2026-03-30": 691,
       "2026-04-21": 19,
       "2026-05-17": 53,
-      "2026-07-25": 196
+      "2026-07-25": 196,
+      "2026-07-27": 1
     }
   },
   {
@@ -235,7 +236,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedwiki.fly.dev.ico",
     "slug": "fedwiki",
     "status": "down",
-    "uptime": "50.48%",
+    "uptime": "50.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -246,7 +247,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-27": 214,
+      "2026-07-27": 1188,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
