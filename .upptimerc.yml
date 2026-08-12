@@ -4,8 +4,6 @@ repo: status
 sites:
   - name: Aeshin
     url: https://aeshin.org
-  - name: Linked Events
-    url: https://linkedevents.org
   - name: UNC-CH AAUP
     url: https://unc-ch-aaup.org
   - name: Deals
@@ -14,10 +12,6 @@ sites:
     url: https://feedme.fly.dev
   - name: NC Gazetteer
     url: https://ncgazetteer.org
-  - name: Fedwiki
-    url: https://fedwiki.fly.dev
-    expectedStatusCodes:
-      - 401
 
 status-website:
   baseUrl: /status
