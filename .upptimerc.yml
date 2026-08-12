@@ -2,8 +2,6 @@ owner: rybesh
 repo: status
 
 sites:
-  - name: Aeshin
-    url: https://aeshin.org
   - name: UNC-CH AAUP
     url: https://unc-ch-aaup.org
   - name: Deals
