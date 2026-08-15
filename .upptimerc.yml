@@ -6,8 +6,6 @@ sites:
     url: https://unc-ch-aaup.org
   - name: Deals
     url: https://deals.fly.dev
-  - name: Feedme
-    url: https://feedme.fly.dev
   - name: NC Gazetteer
     url: https://ncgazetteer.org
 
