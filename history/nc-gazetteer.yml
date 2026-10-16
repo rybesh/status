@@ -1,7 +1,7 @@
 url: https://ncgazetteer.org
-status: up
-code: 200
-responseTime: 386
-lastUpdated: 2026-10-16T01:04:28.014Z
+status: down
+code: 503
+responseTime: 35319
+lastUpdated: 2026-10-16T23:21:50.599Z
 startTime: 2023-12-13T02:36:35.398Z
 generator: Upptime <https://github.com/upptime/upptime>
